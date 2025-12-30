@@ -1,0 +1,23 @@
+{
+    "version": 1,
+    "categories": [
+        {
+            "id": "alphabets",
+            "title": "Alphabets",
+            "items": [
+                {
+                    "key": "A",
+                    "label": "Apple",
+                    "model": "https://raw.githubusercontent.com/yourname/kids/main/models/apple.glb",
+                    "tts": "A"
+                },
+                {
+                    "key": "B",
+                    "label": "Ball",
+                    "model": "https://raw.githubusercontent.com/yourname/kids/main/models/ball.glb",
+                    "tts": "B"
+                }
+            ]
+        }
+    ]
+}
