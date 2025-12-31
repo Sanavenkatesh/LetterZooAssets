@@ -2,20 +2,20 @@
     "version": 1,
     "categories": [
         {
-            "id": "alphabets",
-            "title": "Alphabets",
+            "id": "words",
+            "title": "Words",
             "items": [
                 {
-                    "key": "A",
+                    "key": "Apple",
                     "label": "Apple",
-                    "model": "https://raw.githubusercontent.com/yourname/kids/main/models/apple.glb",
-                    "tts": "A"
+                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/alphabets/apple.glb",
+                    "tts": "Apple"
                 },
                 {
-                    "key": "B",
+                    "key": "Ball",
                     "label": "Ball",
-                    "model": "https://raw.githubusercontent.com/yourname/kids/main/models/ball.glb",
-                    "tts": "B"
+                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/alphabets/ball.glb",
+                    "tts": "Ball"
                 }
             ]
         }
