@@ -8,13 +8,13 @@
                 {
                     "key": "Apple",
                     "label": "Apple",
-                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/alphabets/apple.glb",
+                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/words/apple.glb",
                     "tts": "Apple"
                 },
                 {
                     "key": "Ball",
                     "label": "Ball",
-                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/alphabets/ball.glb",
+                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/words/ball.glb",
                     "tts": "Ball"
                 }
             ]
