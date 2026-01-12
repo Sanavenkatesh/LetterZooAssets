@@ -2,6 +2,24 @@
     "version": 1,
     "categories": [
         {
+            "id": "abc",
+            "title": "ABC..",
+            "items": [
+                {
+                    "key": "a",
+                    "label": "A",
+                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/abc/a.glb",
+                    "tts": "A"
+                },
+                {
+                    "key": "b",
+                    "label": "B",
+                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/abc/b.glb",
+                    "tts": "B"
+                }
+            ]
+        },
+        {
             "id": "words",
             "title": "Words",
             "items": [
