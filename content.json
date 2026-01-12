@@ -16,6 +16,12 @@
                     "label": "B",
                     "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/abc/b.glb",
                     "tts": "B"
+                },
+                {
+                    "key": "c",
+                    "label": "C",
+                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/abc/c.glb",
+                    "tts": "C"
                 }
             ]
         },
