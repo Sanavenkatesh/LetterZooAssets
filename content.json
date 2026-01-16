@@ -22,6 +22,216 @@
                     "label": "C",
                     "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/abc/c.glb",
                     "tts": "C"
+                },
+                {
+                    "key": "d",
+                    "label": "D",
+                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/abc/d.glb",
+                    "tts": "D"
+                },
+                {
+                    "key": "e",
+                    "label": "E",
+                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/abc/e.glb",
+                    "tts": "E"
+                },
+                {
+                    "key": "f",
+                    "label": "F",
+                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/abc/f.glb",
+                    "tts": "F"
+                },
+                {
+                    "key": "g",
+                    "label": "G",
+                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/abc/g.glb",
+                    "tts": "G"
+                },
+                {
+                    "key": "h",
+                    "label": "H",
+                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/abc/h.glb",
+                    "tts": "H"
+                },
+                {
+                    "key": "i",
+                    "label": "I",
+                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/abc/i.glb",
+                    "tts": "I"
+                },
+                {
+                    "key": "j",
+                    "label": "J",
+                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/abc/j.glb",
+                    "tts": "J"
+                },
+                {
+                    "key": "k",
+                    "label": "K",
+                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/abc/k.glb",
+                    "tts": "K"
+                },
+                {
+                    "key": "l",
+                    "label": "L",
+                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/abc/l.glb",
+                    "tts": "L"
+                },
+                {
+                    "key": "m",
+                    "label": "M",
+                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/abc/m.glb",
+                    "tts": "M"
+                },
+                {
+                    "key": "n",
+                    "label": "N",
+                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/abc/n.glb",
+                    "tts": "N"
+                },
+                {
+                    "key": "o",
+                    "label": "O",
+                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/abc/o.glb",
+                    "tts": "O"
+                },
+                {
+                    "key": "p",
+                    "label": "P",
+                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/abc/p.glb",
+                    "tts": "P"
+                },
+                {
+                    "key": "q",
+                    "label": "Q",
+                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/abc/q.glb",
+                    "tts": "Q"
+                },
+                {
+                    "key": "r",
+                    "label": "R",
+                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/abc/r.glb",
+                    "tts": "R"
+                },
+                {
+                    "key": "s",
+                    "label": "S",
+                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/abc/s.glb",
+                    "tts": "S"
+                },
+                {
+                    "key": "t",
+                    "label": "T",
+                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/abc/t.glb",
+                    "tts": "T"
+                },
+                {
+                    "key": "u",
+                    "label": "U",
+                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/abc/u.glb",
+                    "tts": "U"
+                },
+                {
+                    "key": "v",
+                    "label": "V",
+                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/abc/v.glb",
+                    "tts": "V"
+                },
+                {
+                    "key": "w",
+                    "label": "W",
+                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/abc/w.glb",
+                    "tts": "W"
+                },
+                {
+                    "key": "x",
+                    "label": "X",
+                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/abc/x.glb",
+                    "tts": "X"
+                },
+                {
+                    "key": "y",
+                    "label": "Y",
+                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/abc/y.glb",
+                    "tts": "Y"
+                },
+                {
+                    "key": "z",
+                    "label": "Z",
+                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/abc/z.glb",
+                    "tts": "Z"
+                }
+            ]
+        },
+        {
+            "id": "123",
+            "title": "123..",
+            "items": [
+                {
+                    "key": "0",
+                    "label": "0",
+                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/123/0.glb",
+                    "tts": "0"
+                },
+                {
+                    "key": "1",
+                    "label": "1",
+                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/123/1.glb",
+                    "tts": "1"
+                },
+                {
+                    "key": "2",
+                    "label": "2",
+                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/123/2.glb",
+                    "tts": "2"
+                },
+                {
+                    "key": "3",
+                    "label": "3",
+                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/123/3.glb",
+                    "tts": "3"
+                },
+                {
+                    "key": "4",
+                    "label": "4",
+                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/123/4.glb",
+                    "tts": "4"
+                },
+                {
+                    "key": "5",
+                    "label": "5",
+                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/123/5.glb",
+                    "tts": "5"
+                },
+                {
+                    "key": "6",
+                    "label": "6",
+                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/123/6.glb",
+                    "tts": "6"
+                },
+                {
+                    "key": "7",
+                    "label": "7",
+                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/123/7.glb",
+                    "tts": "7"
+                },
+                {
+                    "key": "8",
+                    "label": "8",
+                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/123/8.glb",
+                    "tts": "8"
+                },
+                {
+                    "key": "9",
+                    "label": "9",
+                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/123/9.glb",
+                    "tts": "9"
+                },
+                {
+                    "key": "10",
+                    "label": "10",
+                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/123/10.glb",
+                    "tts": "10"
                 }
             ]
         },
