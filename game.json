@@ -18,12 +18,6 @@
                     "tts": "Apple"
                 },
                 {
-                    "key": "Umbrella",
-                    "label": "Umbrella",
-                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/words/umbrella.glb",
-                    "tts": "Umbrella"
-                },
-                {
                     "key": "Dog",
                     "label": "Dog",
                     "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/words/dog.glb",
