@@ -1,0 +1,161 @@
+{
+    "version": 1,
+    "categories": [
+        {
+            "id": "words",
+            "title": "Words",
+            "items": [
+                {
+                    "key": "Lion",
+                    "label": "Lion",
+                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/words/lion.glb",
+                    "tts": "Lion"
+                },
+                {
+                    "key": "Apple",
+                    "label": "Apple",
+                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/words/apple.glb",
+                    "tts": "Apple"
+                },
+                {
+                    "key": "Umbrella",
+                    "label": "Umbrella",
+                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/words/umbrella.glb",
+                    "tts": "Umbrella"
+                },
+                {
+                    "key": "Dog",
+                    "label": "Dog",
+                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/words/dog.glb",
+                    "tts": "Dog"
+                },
+                {
+                    "key": "Queen",
+                    "label": "Queen",
+                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/words/queen.glb",
+                    "tts": "Queen"
+                },
+                {
+                    "key": "Fish",
+                    "label": "Fish",
+                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/words/fish.glb",
+                    "tts": "Fish"
+                },
+                {
+                    "key": "Van",
+                    "label": "Van",
+                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/words/van.glb",
+                    "tts": "Van"
+                },
+                {
+                    "key": "Cat",
+                    "label": "Cat",
+                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/words/cat.glb",
+                    "tts": "Cat"
+                },
+                {
+                    "key": "Xray",
+                    "label": "Xray",
+                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/words/xray.glb",
+                    "tts": "X-ray"
+                },
+                {
+                    "key": "Mango",
+                    "label": "Mango",
+                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/words/mango.glb",
+                    "tts": "Mango"
+                },
+                {
+                    "key": "Ball",
+                    "label": "Ball",
+                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/words/ball.glb",
+                    "tts": "Ball"
+                },
+                {
+                    "key": "Zebra",
+                    "label": "Zebra",
+                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/words/zebra.glb",
+                    "tts": "Zebra"
+                },
+                {
+                    "key": "House",
+                    "label": "House",
+                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/words/house.glb",
+                    "tts": "House"
+                },
+                {
+                    "key": "Yak",
+                    "label": "Yak",
+                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/words/yak.glb",
+                    "tts": "Yak"
+                },
+                {
+                    "key": "Orange",
+                    "label": "Orange",
+                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/words/orange.glb",
+                    "tts": "Orange"
+                },
+                {
+                    "key": "Sun",
+                    "label": "Sun",
+                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/words/sun.glb",
+                    "tts": "Sun"
+                },
+                {
+                    "key": "Igloo",
+                    "label": "Igloo",
+                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/words/igloo.glb",
+                    "tts": "Igloo"
+                },
+                {
+                    "key": "Rat",
+                    "label": "Rat",
+                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/words/rat.glb",
+                    "tts": "Rat"
+                },
+                {
+                    "key": "Jeep",
+                    "label": "Jeep",
+                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/words/jeep.glb",
+                    "tts": "Jeep"
+                },
+                {
+                    "key": "Tree",
+                    "label": "Tree",
+                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/words/tree.glb",
+                    "tts": "Tree"
+                },
+                {
+                    "key": "Goat",
+                    "label": "Goat",
+                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/words/goat.glb",
+                    "tts": "Goat"
+                },
+                {
+                    "key": "Water",
+                    "label": "Water",
+                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/words/water.glb",
+                    "tts": "Water"
+                },
+                {
+                    "key": "Nest",
+                    "label": "Nest",
+                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/words/nest.glb",
+                    "tts": "Nest"
+                },
+                {
+                    "key": "Parrot",
+                    "label": "Parrot",
+                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/words/parrot.glb",
+                    "tts": "Parrot"
+                },
+                {
+                    "key": "Kite",
+                    "label": "Kite",
+                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/words/kite.glb",
+                    "tts": "Kite"
+                }
+            ]
+        }
+    ]
+}
