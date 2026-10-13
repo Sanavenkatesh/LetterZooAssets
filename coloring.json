@@ -1,0 +1,17 @@
+{
+    "version": 1,
+    "categories": [
+        {
+            "id": "test",
+            "title": "test..",
+            "items": [
+                {
+                    "key": "test",
+                    "label": "test",
+                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/coloring/animals/test.svg",
+                    "tts": "test"
+                }
+            ]
+        }
+    ]
+}
