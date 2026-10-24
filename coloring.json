@@ -12,10 +12,10 @@
                     "tts": "test"
                 },
                 {
-                    "key": "apple",
-                    "label": "apple",
-                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/coloring/animals/apple.svg",
-                    "tts": "apple"
+                    "key": "ball",
+                    "label": "ball",
+                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/coloring/animals/ball.svg",
+                    "tts": "ball"
                 }
             ]
         }
