@@ -8,157 +8,157 @@
                 {
                     "key": "a",
                     "label": "A",
-                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/abc/a.glb",
+                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/abc/a.riv",
                     "tts": "A"
                 },
                 {
                     "key": "b",
                     "label": "B",
-                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/abc/b.glb",
+                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/abc/b.riv",
                     "tts": "B"
                 },
                 {
                     "key": "c",
                     "label": "C",
-                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/abc/c.glb",
+                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/abc/c.riv",
                     "tts": "C"
                 },
                 {
                     "key": "d",
                     "label": "D",
-                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/abc/d.glb",
+                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/abc/d.riv",
                     "tts": "D"
                 },
                 {
                     "key": "e",
                     "label": "E",
-                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/abc/e.glb",
+                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/abc/e.riv",
                     "tts": "E"
                 },
                 {
                     "key": "f",
                     "label": "F",
-                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/abc/f.glb",
+                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/abc/f.riv",
                     "tts": "F"
                 },
                 {
                     "key": "g",
                     "label": "G",
-                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/abc/g.glb",
+                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/abc/g.riv",
                     "tts": "G"
                 },
                 {
                     "key": "h",
                     "label": "H",
-                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/abc/h.glb",
+                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/abc/h.riv",
                     "tts": "H"
                 },
                 {
                     "key": "i",
                     "label": "I",
-                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/abc/i.glb",
+                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/abc/i.riv",
                     "tts": "I"
                 },
                 {
                     "key": "j",
                     "label": "J",
-                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/abc/j.glb",
+                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/abc/j.riv",
                     "tts": "J"
                 },
                 {
                     "key": "k",
                     "label": "K",
-                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/abc/k.glb",
+                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/abc/k.riv",
                     "tts": "K"
                 },
                 {
                     "key": "l",
                     "label": "L",
-                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/abc/l.glb",
+                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/abc/l.riv",
                     "tts": "L"
                 },
                 {
                     "key": "m",
                     "label": "M",
-                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/abc/m.glb",
+                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/abc/m.riv",
                     "tts": "M"
                 },
                 {
                     "key": "n",
                     "label": "N",
-                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/abc/n.glb",
+                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/abc/n.riv",
                     "tts": "N"
                 },
                 {
                     "key": "o",
                     "label": "O",
-                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/abc/o.glb",
+                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/abc/o.riv",
                     "tts": "O"
                 },
                 {
                     "key": "p",
                     "label": "P",
-                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/abc/p.glb",
+                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/abc/p.riv",
                     "tts": "P"
                 },
                 {
                     "key": "q",
                     "label": "Q",
-                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/abc/q.glb",
+                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/abc/q.riv",
                     "tts": "Q"
                 },
                 {
                     "key": "r",
                     "label": "R",
-                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/abc/r.glb",
+                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/abc/r.riv",
                     "tts": "R"
                 },
                 {
                     "key": "s",
                     "label": "S",
-                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/abc/s.glb",
+                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/abc/s.riv",
                     "tts": "S"
                 },
                 {
                     "key": "t",
                     "label": "T",
-                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/abc/t.glb",
+                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/abc/t.riv",
                     "tts": "T"
                 },
                 {
                     "key": "u",
                     "label": "U",
-                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/abc/u.glb",
+                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/abc/u.riv",
                     "tts": "U"
                 },
                 {
                     "key": "v",
                     "label": "V",
-                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/abc/v.glb",
+                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/abc/v.riv",
                     "tts": "V"
                 },
                 {
                     "key": "w",
                     "label": "W",
-                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/abc/w.glb",
+                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/abc/w.riv",
                     "tts": "W"
                 },
                 {
                     "key": "x",
                     "label": "X",
-                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/abc/x.glb",
+                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/abc/x.riv",
                     "tts": "X"
                 },
                 {
                     "key": "y",
                     "label": "Y",
-                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/abc/y.glb",
+                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/abc/y.riv",
                     "tts": "Y"
                 },
                 {
                     "key": "z",
                     "label": "Z",
-                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/abc/z.glb",
+                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/abc/z.riv",
                     "tts": "Z"
                 }
             ]
@@ -170,232 +170,69 @@
                 {
                     "key": "0",
                     "label": "0",
-                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/123/0.glb",
+                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/123/0.riv",
                     "tts": "0"
                 },
                 {
                     "key": "1",
                     "label": "1",
-                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/123/1.glb",
+                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/123/1.riv",
                     "tts": "1"
                 },
                 {
                     "key": "2",
                     "label": "2",
-                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/123/2.glb",
+                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/123/2.riv",
                     "tts": "2"
                 },
                 {
                     "key": "3",
                     "label": "3",
-                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/123/3.glb",
+                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/123/3.riv",
                     "tts": "3"
                 },
                 {
                     "key": "4",
                     "label": "4",
-                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/123/4.glb",
+                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/123/4.riv",
                     "tts": "4"
                 },
                 {
                     "key": "5",
                     "label": "5",
-                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/123/5.glb",
+                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/123/5.riv",
                     "tts": "5"
                 },
                 {
                     "key": "6",
                     "label": "6",
-                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/123/6.glb",
+                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/123/6.riv",
                     "tts": "6"
                 },
                 {
                     "key": "7",
                     "label": "7",
-                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/123/7.glb",
+                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/123/7.riv",
                     "tts": "7"
                 },
                 {
                     "key": "8",
                     "label": "8",
-                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/123/8.glb",
+                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/123/8.riv",
                     "tts": "8"
                 },
                 {
                     "key": "9",
                     "label": "9",
-                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/123/9.glb",
+                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/123/9.riv",
                     "tts": "9"
-                },
-                {
-                    "key": "10",
-                    "label": "10",
-                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/123/10.glb",
-                    "tts": "10"
                 }
             ]
         },
         {
             "id": "words",
             "title": "Words",
-            "items": [
-                {
-                    "key": "Apple",
-                    "label": "Apple",
-                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/words/apple.glb",
-                    "tts": "Apple"
-                },
-                {
-                    "key": "Ball",
-                    "label": "Ball",
-                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/words/ball.glb",
-                    "tts": "Ball"
-                },
-                {
-                    "key": "Cat",
-                    "label": "Cat",
-                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/words/cat.glb",
-                    "tts": "Cat"
-                },
-                {
-                    "key": "Dog",
-                    "label": "Dog",
-                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/words/dog.glb",
-                    "tts": "Dog"
-                },
-                {
-                    "key": "Elephant",
-                    "label": "Elephant",
-                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/words/elephant.glb",
-                    "tts": "Elephant"
-                },
-                {
-                    "key": "Fish",
-                    "label": "Fish",
-                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/words/fish.glb",
-                    "tts": "Fish"
-                },
-                {
-                    "key": "Goat",
-                    "label": "Goat",
-                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/words/goat.glb",
-                    "tts": "Goat"
-                },
-                {
-                    "key": "House",
-                    "label": "House",
-                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/words/house.glb",
-                    "tts": "House"
-                },
-                {
-                    "key": "Igloo",
-                    "label": "Igloo",
-                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/words/igloo.glb",
-                    "tts": "Igloo"
-                },
-                {
-                    "key": "Jeep",
-                    "label": "Jeep",
-                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/words/jeep.glb",
-                    "tts": "Jeep"
-                },
-                {
-                    "key": "Kite",
-                    "label": "Kite",
-                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/words/kite.glb",
-                    "tts": "Kite"
-                },
-                {
-                    "key": "Lion",
-                    "label": "Lion",
-                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/words/lion.glb",
-                    "tts": "Lion"
-                },
-                {
-                    "key": "Mango",
-                    "label": "Mango",
-                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/words/mango.glb",
-                    "tts": "Mango"
-                },
-                {
-                    "key": "Nest",
-                    "label": "Nest",
-                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/words/nest.glb",
-                    "tts": "Nest"
-                },
-                {
-                    "key": "Orange",
-                    "label": "Orange",
-                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/words/orange.glb",
-                    "tts": "Orange"
-                },
-                {
-                    "key": "Parrot",
-                    "label": "Parrot",
-                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/words/parrot.glb",
-                    "tts": "Parrot"
-                },
-                {
-                    "key": "Queen",
-                    "label": "Queen",
-                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/words/queen.glb",
-                    "tts": "Queen"
-                },
-                {
-                    "key": "Rat",
-                    "label": "Rat",
-                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/words/rat.glb",
-                    "tts": "Rat"
-                },
-                {
-                    "key": "Sun",
-                    "label": "Sun",
-                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/words/sun.glb",
-                    "tts": "Sun"
-                },
-                {
-                    "key": "Tree",
-                    "label": "Tree",
-                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/words/tree.glb",
-                    "tts": "Tree"
-                },
-                {
-                    "key": "Umbrella",
-                    "label": "Umbrella",
-                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/words/umbrella.glb",
-                    "tts": "Umbrella"
-                },
-                {
-                    "key": "Van",
-                    "label": "Van",
-                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/words/van.glb",
-                    "tts": "Van"
-                },
-                {
-                    "key": "Water",
-                    "label": "Water",
-                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/words/water.glb",
-                    "tts": "Water"
-                },
-                {
-                    "key": "Xray",
-                    "label": "Xray",
-                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/words/xray.glb",
-                    "tts": "X-ray"
-                },
-                {
-                    "key": "Yak",
-                    "label": "Yak",
-                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/words/yak.glb",
-                    "tts": "Yak"
-                },
-                {
-                    "key": "Zebra",
-                    "label": "Zebra",
-                    "model": "https://raw.githubusercontent.com/Sanavenkatesh/LetterZooAssets/main/words/zebra.glb",
-                    "tts": "Zebra"
-                }
-            ]
+            "items": []
         }
     ]
 }
